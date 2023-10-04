@@ -33,7 +33,7 @@
                                                                 <rect key="frame" x="92.000000000000014" y="0.0" width="159.33333333333337" height="85.666666666666671"/>
                                                             </imageView>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="???" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JXu-eu-vKL">
-                                                                <rect key="frame" x="159.33333333333334" y="90.666666666666657" width="25" height="20.333333333333343"/>
+                                                                <rect key="frame" x="159.33333333333334" y="90.666666666666657" width="25" height="20.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
@@ -63,7 +63,7 @@
                                                                 <rect key="frame" x="91.999999999999957" y="0.0" width="159.33333333333337" height="85.666666666666671"/>
                                                             </imageView>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="???" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aTs-a1-yLr">
-                                                                <rect key="frame" x="158.99999999999994" y="90.666666666666657" width="25" height="20.333333333333343"/>
+                                                                <rect key="frame" x="158.99999999999994" y="90.666666666666657" width="25" height="20.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
@@ -98,7 +98,7 @@
                                                                 <rect key="frame" x="92.000000000000014" y="0.0" width="159.33333333333337" height="90.666666666666671"/>
                                                             </imageView>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="???" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MNB-C7-I52">
-                                                                <rect key="frame" x="159.33333333333334" y="90.666666666666686" width="25" height="20.333333333333314"/>
+                                                                <rect key="frame" x="159.33333333333334" y="90.666666666666686" width="25" height="20.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
@@ -128,7 +128,7 @@
                                                                 <rect key="frame" x="91.999999999999957" y="0.0" width="159.33333333333337" height="85.666666666666671"/>
                                                             </imageView>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="???" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jxH-pI-rpo">
-                                                                <rect key="frame" x="158.99999999999994" y="90.666666666666686" width="25" height="20.333333333333314"/>
+                                                                <rect key="frame" x="158.99999999999994" y="90.666666666666686" width="25" height="20.333333333333329"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
                                                                 <nil key="highlightedColor"/>
